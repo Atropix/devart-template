@@ -2,11 +2,11 @@
 Insert the name of your project
 
 ## Authors
-- Insert main author name, surname, github account
+- Mario, Rieger, Atropix
 - Insert other author(s) name, surname, github account (one per list element)
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+By Coincidence and overloading my Graphics Card with Dogecoin-Mining and hooking up my PCR-M30 MIDI controller, I noticed, that I could control Youtube- and Soundcloud-Streams in Realtime, where every Action I did on the keyboard made significant results on the Output of my Computer. I'm totally new to coding, and so I need help to finish my vision. 
 
 ## Link to Prototype
 NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
