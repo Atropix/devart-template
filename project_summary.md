@@ -1,5 +1,5 @@
 # Project Title
-Insert the name of your project
+RTMSCI - RealTimeMidiStreamControlInterface 
 
 ## Authors
 - Mario, Rieger, Atropix
