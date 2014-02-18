@@ -9,7 +9,7 @@ RTMSCI - RealTimeMidiStreamControlInterface
 By Coincidence and overloading my Graphics Card with Dogecoin-Mining and hooking up my PCR-M30 MIDI controller, I noticed, that I could control Youtube- and Soundcloud-Streams in Realtime, where every Action I did on the keyboard made significant results on the Output of my Computer. I'm totally new to coding, and so I need help to finish my vision. 
 
 ## Link to Prototype
-NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
+NOTE: Sorry that I don't have any prototype yet, but I really know what I want, but need help coding it, because I'm a full noob considering that... ;).
 
 [Example Link](http://www.google.com "Example Link")
 
